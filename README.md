@@ -1,6 +1,16 @@
 # 情感对话 Emoji 训练数据集 + 完整 Emoji 表情库
 
+> **🚀 开源发布 | 中英双语 500 条满配额 | 7 类情绪全覆盖 | 附赠 5042 条完整 Emoji 表情库**
+
 中英双语 LLM 微调（SFT）数据集：教会模型**在情感陪伴场景自然使用 emoji、在普通问答场景保持中性不用 emoji**。另附完整 Unicode emoji 表情库（名称 + 图片 + 可搜索浏览器）。
+
+## 💬 官方交流群
+
+**GitHub-DLM 交流群**：QQ 群号 **1128829106**，扫码或搜索群号加入，交流数据集使用、模型训练、emoji 应用～
+
+| 微信/手机 QQ 扫码 | 群号搜索 |
+|---|---|
+| ![官方交流群二维码](assets/qq_qr.jpg) | **1128829106** |
 
 ## 目录结构
 
@@ -86,3 +96,10 @@ python -I scripts/build_emoji_catalog.py emoji_library   # 重建 emoji 目录
 python -I scripts/validate_and_split.py .                # 校验+切分（需 raw\*.jsonl 齐）
 python -I scripts/train_tiny_gpt.py                      # 自研模型从零训练
 ```
+
+## ⭐ 如果对你有帮助
+
+欢迎 **Star ⭐ / Fork / 关注**，你的支持是持续更新的动力！
+使用问题、改进建议请提 [Issue](https://github.com/jihongyu134/DLM-Emoij/issues)，或加入官方交流群 **1128829106** 面对面交流。
+
+**适用场景**：情感陪伴机器人微调 · emoji 风格训练 · 对话数据增强 · 情绪分类研究 · emoji 表情素材库
