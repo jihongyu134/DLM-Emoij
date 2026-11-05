@@ -1,0 +1,10 @@
+# 模型权重（332MB 超 GitHub 单文件 100MB 上限）
+models/
+# emoji 表情库源数据与图片包（体积大，如需可单独分发）
+emoji_library/
+# Python
+__pycache__/
+*.pyc
+# 临时文件
+*.log
+*.tmp

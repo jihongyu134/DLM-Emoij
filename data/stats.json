@@ -1,0 +1,121 @@
+{
+ "report": [
+  {
+   "lang": "zh",
+   "emotion": "joy",
+   "available": 52,
+   "picked": 45,
+   "train": 41,
+   "val": 4
+  },
+  {
+   "lang": "zh",
+   "emotion": "sadness",
+   "available": 46,
+   "picked": 40,
+   "train": 36,
+   "val": 4
+  },
+  {
+   "lang": "zh",
+   "emotion": "anger",
+   "available": 35,
+   "picked": 35,
+   "train": 31,
+   "val": 4
+  },
+  {
+   "lang": "zh",
+   "emotion": "fear",
+   "available": 30,
+   "picked": 30,
+   "train": 27,
+   "val": 3
+  },
+  {
+   "lang": "zh",
+   "emotion": "surprise",
+   "available": 34,
+   "picked": 30,
+   "train": 27,
+   "val": 3
+  },
+  {
+   "lang": "zh",
+   "emotion": "disgust",
+   "available": 29,
+   "picked": 25,
+   "train": 23,
+   "val": 2
+  },
+  {
+   "lang": "zh",
+   "emotion": "neutral",
+   "available": 45,
+   "picked": 45,
+   "train": 41,
+   "val": 4
+  },
+  {
+   "lang": "en",
+   "emotion": "joy",
+   "available": 52,
+   "picked": 45,
+   "train": 41,
+   "val": 4
+  },
+  {
+   "lang": "en",
+   "emotion": "sadness",
+   "available": 46,
+   "picked": 40,
+   "train": 36,
+   "val": 4
+  },
+  {
+   "lang": "en",
+   "emotion": "anger",
+   "available": 40,
+   "picked": 35,
+   "train": 31,
+   "val": 4
+  },
+  {
+   "lang": "en",
+   "emotion": "fear",
+   "available": 34,
+   "picked": 30,
+   "train": 27,
+   "val": 3
+  },
+  {
+   "lang": "en",
+   "emotion": "surprise",
+   "available": 47,
+   "picked": 30,
+   "train": 27,
+   "val": 3
+  },
+  {
+   "lang": "en",
+   "emotion": "disgust",
+   "available": 40,
+   "picked": 25,
+   "train": 23,
+   "val": 2
+  },
+  {
+   "lang": "en",
+   "emotion": "neutral",
+   "available": 51,
+   "picked": 45,
+   "train": 41,
+   "val": 4
+  }
+ ],
+ "drops": {
+  "zh_A1.jsonl:bad_msg_count": 10,
+  "zh_A3.jsonl:bad_msg_count": 22
+ },
+ "warnings": {}
+}
